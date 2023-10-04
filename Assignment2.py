@@ -1,7 +1,7 @@
-#Assignment no:-02
-# Name:-Prajakta Sambhaji KOlse
+#Assignment no:-2
+# Name:-sushil sharma 
 # Subject:-NLP
-# Roll no:-34 , Batch:-B2
+# Roll no:-61 , Batch:-B4
 # Title:- Bag Of Word
 # Import Library
 import gensim
